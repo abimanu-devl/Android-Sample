@@ -10,6 +10,31 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".editDelivery">
+
+
+        </activity>
+        <activity android:name=".editPayment" >
+
+
+        </activity>
+        <activity android:name=".deliveryInfo">
+
+
+        </activity>
+        <activity android:name=".paymentInfo">
+
+
+
+        </activity>
+        <activity android:name=".paymentHistory">
+
+
+        </activity>
+        <activity android:name=".addDelivery">
+
+
+        </activity>
+        <activity android:name=".addPayment">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -17,16 +42,6 @@
             </intent-filter>
 
         </activity>
-        <activity android:name=".editPayment" >
-
-        </activity>
-        <activity android:name=".deliveryInfo">
-
-        </activity>
-        <activity android:name=".paymentInfo" />
-        <activity android:name=".paymentHistory" />
-        <activity android:name=".addDelivery" />
-        <activity android:name=".addPayment" />
         <activity android:name=".MainActivity" />
     </application>
 

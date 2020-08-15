@@ -174,17 +174,6 @@
       app:layout_constraintTop_toTopOf="parent"
       app:layout_constraintVertical_bias="0.579" />
 
-  <ImageView
-      android:id="@+id/imageView5"
-      android:layout_width="100dp"
-      android:layout_height="76dp"
-      app:layout_constraintBottom_toBottomOf="parent"
-      app:layout_constraintEnd_toEndOf="parent"
-      app:layout_constraintHorizontal_bias="0.45"
-      app:layout_constraintStart_toStartOf="parent"
-      app:layout_constraintTop_toTopOf="parent"
-      app:layout_constraintVertical_bias="0.0"
-      app:srcCompat="@drawable/download" />
 
   <View
       android:id="@+id/divider2"
@@ -197,5 +186,29 @@
       app:layout_constraintStart_toStartOf="parent"
       app:layout_constraintTop_toTopOf="parent"
       app:layout_constraintVertical_bias="0.116" />
+
+  <ImageView
+      android:id="@+id/imageView5"
+      android:layout_width="303dp"
+      android:layout_height="83dp"
+      app:layout_constraintBottom_toBottomOf="parent"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintHorizontal_bias="0.0"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent"
+      app:layout_constraintVertical_bias="0.0"
+      app:srcCompat="@drawable/logo" />
+
+  <ImageView
+      android:id="@+id/imageView7"
+      android:layout_width="99dp"
+      android:layout_height="81dp"
+      app:layout_constraintBottom_toBottomOf="parent"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintHorizontal_bias="0.993"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent"
+      app:layout_constraintVertical_bias="0.0"
+      app:srcCompat="@drawable/carrt" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -134,9 +134,9 @@
         android:id="@+id/editTextNumber5"
         android:layout_width="294dp"
         android:layout_height="38dp"
-        android:text="@string/postal_code"
         android:ems="10"
         android:inputType="number"
+        android:text="@string/postalcode"
         android:textSize="14sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -175,15 +175,15 @@
 
     <ImageView
         android:id="@+id/imageView5"
-        android:layout_width="91dp"
-        android:layout_height="66dp"
+        android:layout_width="303dp"
+        android:layout_height="72dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.45"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0"
-        app:srcCompat="@drawable/download" />
+        app:srcCompat="@drawable/logo" />
 
     <EditText
         android:id="@+id/editTextTextPostalAddress3"
@@ -224,5 +224,17 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/imageView5"
         app:layout_constraintVertical_bias="0.102" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="101dp"
+        android:layout_height="72dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.993"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/carrt" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
