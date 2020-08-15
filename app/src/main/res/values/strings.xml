@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">UserInterfaces</string>
+    <string name="customer_name">Customer Name :</string>
+    <string name="card_no">Card No :</string>
+    <string name="cvv">CVV :</string>
+    <string name="expire_date">Expire Date :</string>
+    <string name="add_payment">Add Payment Information</string>
+    <string name="add_address">Add Delivery Information</string>
+    <string name="country">Country :</string>
+    <string name="street">Street Address :</string>
+    <string name="city">City :</string>
+    <string name="State">State :</string>
+    <string name="postal_code">Postal Code :</string>
+    <string name="mobile">Phone number :</string>
+    <string name="confirm">Confirm</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="buy_again">Buy again</string>
+    <string name="payment_history">Payment History</string>
+    <string name="add_new_payment">Add Payment</string>
+    <string name="add_new_address">Add Address</string>
+    <string name="edit_new_address">Edit Delivery Address</string>
+    <string name="edit_new_payment">Edit Payment Details</string>
+    <string name="save">Save</string>
+    <string name="payment_info">Payment Information</string>
+    <string name="delivery_info">Delivery Information</string>
+    <string name="name">Abishek Wickramasekara</string>
+    <string name="cardno">4505 6783 xxxx </string>
+    <string name="cardtype">Visa </string>
+    <string name="card_date">03/2023</string>
+    <string name="description">xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                               LKR 15000.00</string>
+    <string name="date">28/02/2020</string>
+    <string name="address">No 45,
+                           Buddhaloka Mw,
+                           Piliyandala,
+                           Sri Lanka.</string>
+    <string name="_119">119</string>
+    <string name="_03_2024">03/2024</string>
+    <string name="_4505_6598_4822">4505 6598 4822</string>
+    <string name="sri_lanka">Sri Lanka</string>
+    <string name="_45_buddhaloka_mw">45,Buddhaloka Mw,</string>
+    <string name="piliyandala">Piliyandala</string>
+    <string name="colombo">Colombo</string>
+    <string name="postalcode">10300</string>
+    <string name="mob">072483943435</string>
+
+</resources>
